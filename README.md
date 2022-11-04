@@ -7,3 +7,9 @@ My name is Anthony. I have been coding for a few years now in my spare time and 
 1. Javacript
 2. Git
 
+## What I've Done So Far
+
+- https://saassite.netlify.app
+- https://medium.com/@aflowers3109/lessons-learned-while-deploying-a-fully-featured-website-6ada1422859d
+- https://medium.com/@aflowers3109/the-power-of-git-and-github-and-why-you-should-be-using-them-ed4705e69f2c
+- https://medium.com/@aflowers3109/how-css-grid-template-areas-can-help-you-859e7d07399c
